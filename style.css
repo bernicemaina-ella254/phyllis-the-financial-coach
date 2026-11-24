@@ -3,7 +3,7 @@
 
 :root {
   --main-colour:#002366;    /* header background */
-  --accent-colour: yellow;  /* buttons and focus outline; passes 4.5:1 on white */
+  --accent-colour: #BA8E23;  /* buttons and focus outline; passes 4.5:1 on white */
 }
 
 body {
