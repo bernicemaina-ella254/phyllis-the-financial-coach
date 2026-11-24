@@ -17,7 +17,7 @@ toggleButton.addEventListener("click", function () {
     isOpen = true;
   }
   console.log("Box open:", isOpen);
-);
+});
 
 const items = ["First item", "Second item", "Third item"];
 const list = document.querySelector("#item-list");
