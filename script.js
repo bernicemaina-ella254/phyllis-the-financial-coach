@@ -40,4 +40,4 @@ if (list) {
   }
   console.log("Items shown:", items.length);
 }
-*/
+
