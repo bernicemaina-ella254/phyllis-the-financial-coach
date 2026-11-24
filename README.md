@@ -1,17 +1,17 @@
 # [Site name]
 
 ## What this site is
-One or two sentences.
+A client or viewers resource page
 
 ## Who it is for
-[Your user] and what they need from it.
+For clients planning to secure their financial future and build wealth through protected, long-term strategies
 
 ## How to open it
-Live site: [your GitHub Pages address]
+ https://bernicemaina-ella254.github.io/phyllis-the-financial-coach/
 
 ## What it does
-- Three connected pages: Home, About, More
-- A button that shows and hides this week's details
+- Six connected pages: Home,Life,General,Contact About, More
+- A button that shows and hides this week's events and offers
 - A list built from data (added on Day 6)
 
 ## Sources
@@ -21,4 +21,4 @@ Every image, fact and dataset is listed on the About page and in my source recor
 What I asked the AI (Claude or Cursor), what I checked and what I changed is in my AI accountability log.
 
 ## What I would do next
-One or two ideas.
+Improve from time to time
