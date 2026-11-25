@@ -1,4 +1,4 @@
-# [Site name]
+# Phyllis The Financial Coach
 
 ## What this site is
 A client or viewers resource page
