@@ -71,22 +71,22 @@ button:focus {
 }
 
 .instagram-icon-dot {
-  fill: currentColor;
+  fill: purple;
   stroke: none;
 }
 
 .tiktok-icon-mark {
-  fill: currentColor;
+  fill: black;
   stroke: none;
 }
 
 .facebook-icon-mark {
-  fill: currentColor;
+  fill: royalblue;
   stroke: none;
 }
 
 .linkedin-icon-mark {
-  fill: currentColor;
+  fill: greenyellow;
   stroke: none;
 }
 
