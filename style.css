@@ -49,6 +49,47 @@ button:focus {
   outline-offset: 2px;
 }
 
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--main-colour);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.social-link:hover {
+  text-decoration: underline;
+}
+
+.social-link svg {
+  width: 24px;
+  height: 24px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+}
+
+.instagram-icon-dot {
+  fill: currentColor;
+  stroke: none;
+}
+
+.tiktok-icon-mark {
+  fill: currentColor;
+  stroke: none;
+}
+
+.facebook-icon-mark {
+  fill: currentColor;
+  stroke: none;
+}
+
+.linkedin-icon-mark {
+  fill: currentColor;
+  stroke: none;
+}
+
 main {
   max-width: 800px;
   margin: 0 auto;
