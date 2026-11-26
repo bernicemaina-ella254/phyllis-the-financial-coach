@@ -81,12 +81,12 @@ button:focus {
 }
 
 .facebook-icon-mark {
-  fill: royalblue;
+  fill: rgb(4, 38, 140);
   stroke: none;
 }
 
 .linkedin-icon-mark {
-  fill: greenyellow;
+  fill: rgb(40, 40, 255);
   stroke: none;
 }
 
